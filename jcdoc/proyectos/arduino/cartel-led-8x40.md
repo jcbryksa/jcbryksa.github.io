@@ -4,16 +4,20 @@ Cartel electrónico programable de LEDs en matriz de 8 x 40 manejados por 5 mult
 
 La lógica está programada en C++ sobre una placa [NodeMCU](https://github.com/nodemcu) utilizando [PlatormIO](https://platformio.org/) como entorno de desarrollo integrado con [Visual Studio Code](https://code.visualstudio.com/). Todo el código fuente se encuentra en <a href="https://github.com/jcbryksa/cartel-led-8x40" target="_blank">este repositorio</a>.
 
-[](https://www.youtube.com/watch?v=uIsm9Eb4sG4)
 
+<a href="https://www.youtube.com/watch?v=uIsm9Eb4sG4" target="_blank"><img src="https://img.youtube.com/vi/uIsm9Eb4sG4/0.jpg"></a>
+
+&nbsp;
 El armado de la matriz de leds es un experimento (con buen resultado) realizado con tiras de led 5050.
 
 <img src="misc/tiras-led-01.jpg" width="450" />
 
+&nbsp;
 En el interior del cartel se encuentran los MAX7219, también conectados de manera "artesanal" :).
 
 <img src="misc/interior-01.jpg" width="450" />
 
+&nbsp;
 Luego, con un poco de pintura negra en la parte frontal del panel mejora un poco la vista y el contraste de cada led.
 
 <img src="misc/frente-01.jpg" width="450" />

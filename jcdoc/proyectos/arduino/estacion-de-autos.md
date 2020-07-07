@@ -9,7 +9,8 @@ La lógica está programada en C++ sobre una placa [Arduino](https://www.arduino
 
 ---
 
-[](https://www.youtube.com/watch?v=DeJ5emJt6Y4)
+<a href="https://www.youtube.com/watch?v=DeJ5emJt6Y4" target="_blank"><img src="https://img.youtube.com/vi/DeJ5emJt6Y4/0.jpg"></a>
+
 
 ---
 
